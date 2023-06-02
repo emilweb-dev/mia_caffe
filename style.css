@@ -16,8 +16,8 @@ body {
 }
 
 main {
-  width: 100%;
-  
+  max-width: 100%;
+  padding: 2rem;
   height: 100vh;
   display: flex;
   justify-content: center; 
@@ -25,7 +25,7 @@ main {
 }
 
 header {
-  
+  width: 90%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -58,6 +58,7 @@ h1 {
   color: #3c2f2f;
   padding-bottom: 2rem;
   font-size: 2.5rem;
+  font-weight: 700;
 }
 
 img {
