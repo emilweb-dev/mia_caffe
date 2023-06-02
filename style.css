@@ -34,6 +34,7 @@ header {
   background: linear-gradient(to bottom, #be9b7b 50%, #6f4436 50%);
   border-radius: 1rem;
   transition: all 0.5s ease-in-out;
+  padding: 1rem;
   
 }
 
